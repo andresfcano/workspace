@@ -1,0 +1,33 @@
+{
+  "gitReferences": {
+    "git-example": {
+      "remote": "https://github.com/dataiku/academy-samples.git",
+      "checkout": "refs/heads/main",
+      "remotePath": "coder-workshop/python_library",
+      "lastHash": "231db0a9f3535aff029828ba4717414b983dc143",
+      "conflictingFiles": [],
+      "resolvedFiles": [],
+      "faultyHash": "",
+      "isDirty": false
+    },
+    "gh-test": {
+      "remote": "https://github.com/andresfcano/andresfcano.github.io.git",
+      "checkout": "refs/heads/master",
+      "remotePath": "src/Data",
+      "lastHash": "39a8615ed9835f270d3dbdfdb64608af67a64b15",
+      "conflictingFiles": [],
+      "resolvedFiles": [],
+      "faultyHash": "",
+      "isDirty": true
+    }
+  },
+  "pythonPath": [
+    "python",
+    "git-example",
+    "gh-test"
+  ],
+  "rsrcPath": [
+    "R"
+  ],
+  "importLibrariesFromProjects": []
+}
