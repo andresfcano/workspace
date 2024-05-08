@@ -1,6 +1,7 @@
 {
     "portfolios": [
         {"this is a change": "change"},
+        {"this is another change": "change"}
         {
             "cover": "/portfolio/portfolio-1/about-me.jpeg",
             "title": "GGWP",
